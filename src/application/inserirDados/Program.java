@@ -1,8 +1,6 @@
 package application.inserirDados;
 
-import com.sun.security.jgss.GSSUtil;
 import db.DB;
-
 import java.sql.*;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
